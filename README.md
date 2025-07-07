@@ -86,7 +86,4 @@ Testing Accuracy: 0.9938<br>
   </tbody>
 </table>
 
-![Confusion Matrix](image.png)<br><br>
-![Overfitting/Underfitting Check](image-1.png)
-
 ### Enjoyed this repo? A ⭐ lets me know it was worth sharing!
